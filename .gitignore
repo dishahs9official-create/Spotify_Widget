@@ -1,0 +1,33 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environments
+.venv/
+venv/
+ENV/
+env/
+NoExternal/
+
+# Dynamic configurations (stores local window position & user-specific settings)
+config.json
+
+# Temporary assets and test files
+tests/test_thumb.jpg
+tests/test_thumbnail_success.png
+*.jpg
+*.jpeg
+*.png
+!screenshot.png # Allow the main screenshot for the README
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+*.swo
