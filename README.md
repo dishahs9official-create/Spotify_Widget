@@ -17,10 +17,10 @@ A gorgeous, lightweight, and highly customizable desktop media widget for Window
 
 ## 📸 Preview
 
-*(Add a screenshot of the widget running on your desktop wallpaper here!)*
 <div align="center">
   <img src="screenshot.png" alt="Spotify Desktop Widget Preview" width="450px" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.5);"/>
 </div>
+<img width="936" height="530" alt="image" src="https://github.com/user-attachments/assets/44ab8ba1-0048-4ade-aeed-5d495fdf5319" />
 
 ---
 
