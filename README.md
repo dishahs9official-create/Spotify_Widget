@@ -1,4 +1,4 @@
-# Spotify Desktop Widget
+# 🎵🎸Spotify Desktop Widget
 
 <div align="center">
 
